@@ -1,0 +1,9 @@
+{FFFFFF}Днём - {FFFFCC}150$ {FFFFFF}| Ночью - {FFFFCC}150$.
+{FFFFFF}Белый Список Штата - {FFFFCC}1$
+{FFFFFF}Лидеры любой организации - {FFFFCC}1$
+{FFFFFF}Сотрудники МЗ - {FFFFCC}1$
+{FFFFFF}Медицинские карты и справки - {FFFFCC}2.000$
+{FFFFFF}Russian Mafia - {FFFFCC}1$
+{FFFFFF}La Cosa Nostra - {FFFFCC}300$
+{FFFFFF}Все операции - {FFFFCC}5.000$
+{FFFFFF}Для тех кто проживает меньше {FFFFCC}3 {FFFFFF}лет в штате, лечение и операции {FFFFCC}Бесплатны.
